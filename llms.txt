@@ -1,0 +1,9 @@
+# Amore Residence
+
+> Amore Residence — Premium property listing in Singapore.
+
+- Canonical Origin: https://singaporenewproperty.github.io/amoresidence/
+
+## Pages
+
+- [Amore Residence](https://singaporenewproperty.github.io/amoresidence/): Amore Residence property information.
